@@ -15,7 +15,7 @@ Feel free to let me know if I made a mistake in the code by creating an Issue or
 ## How to enter
 
 1. Fork this repository by clicking the Fork button in the top right. See [here](https://guides.github.com/activities/forking/) if you need help.
-2. Clone forked the forked repository.
+2. Clone the forked repository.
 
 ```bash
 git clone https://github.com/<your_username>/ticket-raffle.git
